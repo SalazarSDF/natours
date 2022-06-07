@@ -4,7 +4,8 @@
   "description": "Landing page for natours",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass sass/main.scss css/style.css -w"
+    "sass": "node-sass sass/main.scss css/style.css -w",
+    "server": "live-server --wait=500"
   },
   "repository": {
     "type": "git",
