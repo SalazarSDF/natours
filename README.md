@@ -1,3 +1,1 @@
-# natours
-
-github-pages: https://salazarsdf.github.io/natours/;
+# DEMO: https://salazarsdf.github.io/natours/;
